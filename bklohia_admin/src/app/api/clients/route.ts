@@ -43,10 +43,10 @@ export async function PUT(request: Request) {
 
 export async function POST(request: Request) {
   try {
-    const { name, email, group_id } = await request.json();
+    const { name, email, group_id, password } = await request.json();
     
-    // Set a default password for new clients
-    const tempPassword = 'password123';
+    // Use the provided password, or a default password if left empty
+    const tempPassword = password || 'password123';
     const hashedPassword = await bcrypt.hash(tempPassword, 10);
     
     const [result] = await pool.query(
