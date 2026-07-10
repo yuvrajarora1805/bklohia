@@ -151,6 +151,22 @@ export default function ClientsPage() {
     }
   };
 
+  const handleDeleteClient = async (id: number, name: string) => {
+    if (!confirm(`Are you sure you want to delete ${name}? This action cannot be undone.`)) return;
+    
+    try {
+      const res = await fetch(`/api/clients?id=${id}`, { method: "DELETE" });
+      if (res.ok) {
+        fetchClients();
+      } else {
+        const errorData = await res.json();
+        alert(`Error: ${errorData.error}`);
+      }
+    } catch (error) {
+      console.error("Failed to delete client", error);
+    }
+  };
+
   return (
     <div className="space-y-6">
       <div className="flex items-center justify-between">
@@ -238,6 +254,12 @@ export default function ClientsPage() {
                       className="text-xs bg-slate-100 hover:bg-slate-200 text-slate-700 px-3 py-1.5 rounded-lg transition-colors font-medium"
                     >
                       Assign Service
+                    </button>
+                    <button 
+                      onClick={() => handleDeleteClient(client.id, client.name)}
+                      className="text-xs bg-red-50 hover:bg-red-100 text-red-600 px-3 py-1.5 rounded-lg transition-colors font-medium border border-red-100"
+                    >
+                      Delete
                     </button>
                   </td>
                 </tr>

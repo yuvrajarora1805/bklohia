@@ -45,8 +45,8 @@ export async function POST(request: Request) {
   try {
     const { name, email, group_id } = await request.json();
     
-    // Generate random password
-    const tempPassword = Math.random().toString(36).slice(-8);
+    // Set a default password for new clients
+    const tempPassword = 'password123';
     const hashedPassword = await bcrypt.hash(tempPassword, 10);
     
     const [result] = await pool.query(
@@ -64,5 +64,23 @@ export async function POST(request: Request) {
       return NextResponse.json({ error: 'Email already exists' }, { status: 400 });
     }
     return NextResponse.json({ error: 'Failed to create client', details: error.message }, { status: 500 });
+  }
+}
+
+export async function DELETE(request: Request) {
+  try {
+    const { searchParams } = new URL(request.url);
+    const id = searchParams.get('id');
+    
+    if (!id) {
+      return NextResponse.json({ error: 'ID is required' }, { status: 400 });
+    }
+    
+    await pool.query('DELETE FROM Users WHERE id = ?', [id]);
+    
+    return NextResponse.json({ success: true });
+  } catch (error: any) {
+    console.error("Database Error:", error);
+    return NextResponse.json({ error: 'Failed to delete client', details: error.message }, { status: 500 });
   }
 }
