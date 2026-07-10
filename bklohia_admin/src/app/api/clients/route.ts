@@ -50,8 +50,8 @@ export async function POST(request: Request) {
     const hashedPassword = await bcrypt.hash(tempPassword, 10);
     
     const [result] = await pool.query(
-      'INSERT INTO Users (name, email, password, role, status, group_id) VALUES (?, ?, ?, ?, ?, ?)',
-      [name, email, hashedPassword, 'CLIENT', 'ACTIVE', group_id || null]
+      'INSERT INTO Users (name, email, password_hash, role, status, group_id) VALUES (?, ?, ?, ?, ?, ?)',
+      [name, email, hashedPassword, 'CUSTOMER', 'ACTIVE', group_id || null]
     );
     
     return NextResponse.json({ 
@@ -63,6 +63,6 @@ export async function POST(request: Request) {
     if (error.code === 'ER_DUP_ENTRY') {
       return NextResponse.json({ error: 'Email already exists' }, { status: 400 });
     }
-    return NextResponse.json({ error: 'Failed to create client' }, { status: 500 });
+    return NextResponse.json({ error: 'Failed to create client', details: error.message }, { status: 500 });
   }
 }
