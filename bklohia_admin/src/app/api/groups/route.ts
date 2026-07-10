@@ -10,9 +10,9 @@ export async function GET() {
       ORDER BY cg.created_at DESC
     `);
     return NextResponse.json(rows);
-  } catch (error) {
+  } catch (error: any) {
     console.error("Database Error:", error);
-    return NextResponse.json({ error: 'Failed to fetch groups' }, { status: 500 });
+    return NextResponse.json({ error: 'Failed to fetch groups', details: error.message }, { status: 500 });
   }
 }
 

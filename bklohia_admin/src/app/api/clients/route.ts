@@ -13,9 +13,9 @@ export async function GET() {
       ORDER BY u.created_at DESC
     `);
     return NextResponse.json(rows);
-  } catch (error) {
+  } catch (error: any) {
     console.error("Database Error:", error);
-    return NextResponse.json({ error: 'Failed to fetch clients' }, { status: 500 });
+    return NextResponse.json({ error: 'Failed to fetch clients', details: error.message }, { status: 500 });
   }
 }
 
