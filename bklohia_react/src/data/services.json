@@ -1,0 +1,338 @@
+{
+  "company-registration": {
+    "title": "Company Registration",
+    "category": "Start Business",
+    "link": "company-registration-in-jaipur.php/index.html",
+    "desc": "In India, company registration is also known as incorporation of a company or formation of a business entity. Registering your company helps you to make your business as a distinguished entity and gives it a legal existence also. The process of company registration in India is done under the Ministry of Corporate Affairs(MCA).There are different Registrar of Companies in every state to regulate the working or compliances of such companies. ROC Kotkapura is located in the middle of the city near 22 Godown Circle.",
+    "slug": "company-registration"
+  },
+  "private-limited-company-registration": {
+    "title": "Private Limited Company Registration",
+    "category": "Start Business",
+    "link": "private-limited-company.php/index.html",
+    "desc": "Professional chartered accountancy services customized to meet your specific financial and regulatory requirements.",
+    "slug": "private-limited-company-registration"
+  },
+  "public-limited-company-registration": {
+    "title": "Public Limited Company Registration",
+    "category": "Start Business",
+    "link": "public-company.php/index.html",
+    "desc": "Professional chartered accountancy services customized to meet your specific financial and regulatory requirements.",
+    "slug": "public-limited-company-registration"
+  },
+  "limited-liability-partnership-registration": {
+    "title": "Limited Liability Partnership Registration",
+    "category": "Start Business",
+    "link": "llp-registration.php/index.html",
+    "desc": "Professional chartered accountancy services customized to meet your specific financial and regulatory requirements.",
+    "slug": "limited-liability-partnership-registration"
+  },
+  "one-person-company-registration": {
+    "title": "One Person Company Registration",
+    "category": "Start Business",
+    "link": "one-person-company.php/index.html",
+    "desc": "Professional chartered accountancy services customized to meet your specific financial and regulatory requirements.",
+    "slug": "one-person-company-registration"
+  },
+  "nidhi-company-registration": {
+    "title": "Nidhi Company Registration",
+    "category": "Start Business",
+    "link": "nidhi-company.php/index.html",
+    "desc": "Professional chartered accountancy services customized to meet your specific financial and regulatory requirements.",
+    "slug": "nidhi-company-registration"
+  },
+  "producer-company-registration": {
+    "title": "Producer Company Registration",
+    "category": "Start Business",
+    "link": "producer-company.php/index.html",
+    "desc": "Professional chartered accountancy services customized to meet your specific financial and regulatory requirements.",
+    "slug": "producer-company-registration"
+  },
+  "foreign-company-registration": {
+    "title": "Foreign Company Registration",
+    "category": "Start Business",
+    "link": "foreign-company-registration.php/index.html",
+    "desc": "Professional chartered accountancy services customized to meet your specific financial and regulatory requirements.",
+    "slug": "foreign-company-registration"
+  },
+  "partnership-registration": {
+    "title": "Partnership Registration",
+    "category": "Start Business",
+    "link": "partnership-registration.php/index.html",
+    "desc": "Professional chartered accountancy services customized to meet your specific financial and regulatory requirements.",
+    "slug": "partnership-registration"
+  },
+  "sole-proprietorship-registration": {
+    "title": "Sole Proprietorship Registration",
+    "category": "Start Business",
+    "link": "sole-proprietorship-registration.php/index.html",
+    "desc": "Sole proprietorship business is one of the easiest forms of business organisation under which the business is owned and governed by one person. Sole proprietorship can be incorporated within fifteen days and hence makes it one of the oldest and popular form of business to begin in the unorganized sector. Under Sole Proprietorship business, registration is not mandatory as it is identified through alternate registrations, such as GST registration. However, its liability is unlimited and it also doesn\u2019t have perpetual existence.",
+    "slug": "sole-proprietorship-registration"
+  },
+  "gst-registration": {
+    "title": "GST Registration",
+    "category": "Start Business",
+    "link": "gst-registration.php/index.html",
+    "desc": "Professional chartered accountancy services customized to meet your specific financial and regulatory requirements.",
+    "slug": "gst-registration"
+  },
+  "fssai-registration": {
+    "title": "FSSAI Registration",
+    "category": "Start Business",
+    "link": "fssai-food-license-registration.php/index.html",
+    "desc": "Professional chartered accountancy services customized to meet your specific financial and regulatory requirements.",
+    "slug": "fssai-registration"
+  },
+  "import-export-code": {
+    "title": "Import Export Code",
+    "category": "Start Business",
+    "link": "import-export-code.php/index.html",
+    "desc": "Professional chartered accountancy services customized to meet your specific financial and regulatory requirements.",
+    "slug": "import-export-code"
+  },
+  "iso-certification": {
+    "title": "ISO Certification",
+    "category": "Start Business",
+    "link": "iso-certification.php/index.html",
+    "desc": "Professional chartered accountancy services customized to meet your specific financial and regulatory requirements.",
+    "slug": "iso-certification"
+  },
+  "rera-registration": {
+    "title": "RERA Registration",
+    "category": "Start Business",
+    "link": "rera-registration.php/index.html",
+    "desc": "Professional chartered accountancy services customized to meet your specific financial and regulatory requirements.",
+    "slug": "rera-registration"
+  },
+  "msme-udyam-registration": {
+    "title": "MSME Udyam Registration",
+    "category": "Start Business",
+    "link": "msme-udyam-registration.php/index.html",
+    "desc": "Union MSME Ministry launched the Udyam Registration Portal on 1st July 2020. The portal has proven its worth both in terms of flexibility and features. At present, the portal has more than 11 lakh registered MSMEs (Micro, Small and Medium Enterprises) that have completed their registration process on a self-declaration basis. The Finance Minister introduced this registration process as a part of the Prime Minister\u2019s relief package amid Covid 19 pandemic. Every businessman has somewhat idea about Udyam registration that these are for getting benefits of government schemes but the confusion in the minds is what is the difference between MSME Registration and Udyam Registration?",
+    "slug": "msme-udyam-registration"
+  },
+  "shop-act-registration": {
+    "title": "Shop Act Registration",
+    "category": "Start Business",
+    "link": "shop-act-registration-labour-law.php/index.html",
+    "desc": "Every small time hotel and shop has to secure the shop and establishment license for the purpose of carrying out business activities. However, this license would vary based on the requirements of the state. For example, the shops and establishments license for Punjab would be different from the procedure for shops and establishments in Uttar Pradesh. Hence it is crucial for the applicant to understand the Central rules as well as the state rules related to shops and establishments before making an application. Moreover, these rules regulate employees working in the organised sector as well as the unorganised sector. Different working conditions have to be complied by the applicant.",
+    "slug": "shop-act-registration"
+  },
+  "business-registration-number-brn": {
+    "title": "Business Registration Number (BRN)",
+    "category": "Start Business",
+    "link": "brn-registration.php/index.html",
+    "desc": "Starting a business is itself a big challenge. You not only have to decide your budget, set goals and make strategy but also achieve legal compliance. In addition to registering your business and getting licensed, there are several other compliances you must full fill before starting a business. Depending on your industry and location, you must need to apply for a business registration number. And in this article we will understand what BRN exactly is? how to obtain BRN and why it is necessary.",
+    "slug": "business-registration-number-brn"
+  },
+  "startup-registration": {
+    "title": "Startup Registration",
+    "category": "Start Business",
+    "link": "start-up-registration-in-jaipur.php/index.html",
+    "desc": "A start-up is a young company founded by one or more entrepreneurs for the purpose to develop a product or service and bring that in to the market. As per the income tax rules, a start-up can be a company or a limited liability partnership(LLP) engaged in such kind of business which involves innovation, development, deployment or commercialisation of new products and services.",
+    "slug": "startup-registration"
+  },
+  "ngo-registration": {
+    "title": "NGO Registration",
+    "category": "NGO",
+    "link": "ngo-registration.php/index.html",
+    "desc": "NGOs are legally established organizations which are generally considered to be non-profit oriented groups whose ultimate purpose is to work for public interest towards the welfare of the public, child education, a social agenda, care of environment, wildlife, etc and they work independently from the Government. Generally, the activities of NGO\u2019s are to promote the interests of the poor, protect the environment, provide basic social services, or undertake community development and to promote the art, culture and science in India. The full form of NGO is Non-Governmental Organization, NGO\u2019s are also referred to as Non-Profit Organizations (NPO\u2019s) sometimes",
+    "slug": "ngo-registration"
+  },
+  "section-8-npo-registration": {
+    "title": "Section 8 NPO Registration",
+    "category": "NGO",
+    "link": "section8-npo-registration.php/index.html",
+    "desc": "Professional chartered accountancy services customized to meet your specific financial and regulatory requirements.",
+    "slug": "section-8-npo-registration"
+  },
+  "trust-registration": {
+    "title": "Trust Registration",
+    "category": "NGO",
+    "link": "trust-registration.php/index.html",
+    "desc": "Trust is a harmonization under which the owner of the Trust transfers the property to a trustee to provide the advantage to a third party. A trust is regulated by The Indian Trust Act 1882 i.e. all the trusts are required to get registered under The Indian Trust Act 1882. Nowadays, registration of a trust is a complete online process which can be done by execution of a Trust Deed. The most important requirement under Trust registration is Trust deed.",
+    "slug": "trust-registration"
+  },
+  "society-registration": {
+    "title": "Society Registration",
+    "category": "NGO",
+    "link": "ngo-society-registration.php/index.html",
+    "desc": "The piece of equipment of \u201csociety\u201d evolved to complete the need of an organization of non-commercial character for the sustainability of repeated charitable activities like education, art, religion, culture-music, and sport, etc. Associations or societies are fashioned to help further these causes since they work on a non-profit base. The call for a legal entity is to own, possess and handle the finances and assets for the accomplishment of liberal or promotional objects, as laid behind by donors, is the result of these actions. Moreover, a society can be shaped to realize this end.",
+    "slug": "society-registration"
+  },
+  "ngo-darpan-registration": {
+    "title": "NGO Darpan Registration",
+    "category": "NGO",
+    "link": "ngo-darpan-registration.php/index.html",
+    "desc": "The NGO Darpan is creativity started by the NITI Aayog and the National Informatics Center. It allows the interchange of crucial information between Non-Profit Government Organizations, Volunteer Organizations, bodies, Government Departments, and ministries. Doing the NGO Darpan Registration online will help Non-Profit Government Organizations receive vital updates concerning government grants and other benefits. To achieve the objective of smoothly doing business and other social benefits, a committed Centralized Portal is made available to NGOs/VO in which they can effortlessly enrol with the Indian Government and an overall centralized database is available with the Indian Government which helps in the Formation of Social Welfare Activities. Scroll down to check more information regarding NGO Darpan Registration in India.",
+    "slug": "ngo-darpan-registration"
+  },
+  "fcra-registration": {
+    "title": "FCRA Registration",
+    "category": "NGO",
+    "link": "fcra-registration-in-jaipur.php/index.html",
+    "desc": "Foreign contributions or income from nations outside of India are governed by the Foreign Contribution Regulation Act (FCRA). The FCRA was put into effect to make sure that foreign aid did not compromise India\u2019s sovereignty or political integrity. Under the Foreign Contributions Regulation Act, non-governmental organizations, charitable organizations that accept funds from overseas, and foreign sources must register. The prior authorization procedure is used for registration with the FCRA registration department, which is part of the Ministry of Home Affairs. NGOs must register under the FCRA since they cannot accept donations from abroad directly.",
+    "slug": "fcra-registration"
+  },
+  "80g-12a-registration": {
+    "title": "80G 12A Registration",
+    "category": "NGO",
+    "link": "section12ab-and-section-80g.php/index.html",
+    "desc": "NGO (Non-Government Organization) is established to serve for the cause of human, nature, animals with a Non-profit motive by forming any type of entity like Charitable Trust/Society/Section 8 Company. Once you get it registered, there are bunch of tax benefits and exemptions for the NGO as well as for the donors. For availing such exemption, it is required to obtain 12AB and 80G registrations, otherwise any income/donation received by an NGO will be taken as normal taxable income.",
+    "slug": "80g-12a-registration"
+  },
+  "corporate-social-responsibility": {
+    "title": "Corporate Social Responsibility",
+    "category": "NGO",
+    "link": "corporate-social-responsibility-in-india.php/index.html",
+    "desc": "Corporate Social Responsibility (CSR) is a component of doing business that is growing more and more important in India. India offers a special environment for companies to participate in CSR projects that boost social welfare while also generating profit for their stakeholders. India is a country with a rapidly developing economy, a sizable population, and several social issues. Corporate social responsibility in India empowers companies to start projects, programs, or activities that benefit society.",
+    "slug": "corporate-social-responsibility"
+  },
+  "trademark-registration": {
+    "title": "Trademark Registration",
+    "category": "Trademark",
+    "link": "trademark-registration.php/index.html",
+    "desc": "Professional chartered accountancy services customized to meet your specific financial and regulatory requirements.",
+    "slug": "trademark-registration"
+  },
+  "copyright-registration": {
+    "title": "Copyright Registration",
+    "category": "Trademark",
+    "link": "copyright-registration.php/index.html",
+    "desc": "Professional chartered accountancy services customized to meet your specific financial and regulatory requirements.",
+    "slug": "copyright-registration"
+  },
+  "design-registration": {
+    "title": "Design Registration",
+    "category": "Trademark",
+    "link": "design-registration.php/index.html",
+    "desc": "Professional chartered accountancy services customized to meet your specific financial and regulatory requirements.",
+    "slug": "design-registration"
+  },
+  "patent-registration": {
+    "title": "Patent Registration",
+    "category": "Trademark",
+    "link": "patent-registration.php/index.html",
+    "desc": "Professional chartered accountancy services customized to meet your specific financial and regulatory requirements.",
+    "slug": "patent-registration"
+  },
+  "itr-filing": {
+    "title": "ITR Filing",
+    "category": "Compliances",
+    "link": "itr-filing-in-india.php/index.html",
+    "desc": "Income Tax Return (ITR) filing is an essential obligation for individuals and entities in India. It is a legal requirement imposed by the government to assess and collect taxes from citizens and organizations based on their income. The process of ITR filing in India can seem daunting to many, but with the right knowledge and guidance, it can be a smooth and hassle-free experience. In this article, we will provide you with a comprehensive guide to ITR filing in India.",
+    "slug": "itr-filing"
+  },
+  "gst-return": {
+    "title": "GST Return",
+    "category": "Compliances",
+    "link": "gst-return.php/index.html",
+    "desc": "With the aim of \u201cOne Nation One Tax\u201d, Goods and Services Tax (GST) was introduced in India on 1st July 2017 to unify different indirect taxes. The commencement of GST regime in India brought with itself the concept of GST return- a document in which the taxpayer under the Goods and Services Tax (GST) need to file the details of his/her income to the tax authorities. All the business entities need to get themselves separately registered under GST Regime and file their GST return in an online or offline mode. As per the 37th GST Council Meeting, new GST return mechanism has taken its presence in GST regime from April 2020 (in acceptance of the proposal from October 2019).",
+    "slug": "gst-return"
+  },
+  "roc-filing": {
+    "title": "ROC Filing",
+    "category": "Compliances",
+    "link": "roc-filing.php/index.html",
+    "desc": "Every company whether Public, Private, Section-8, Producer or any other type of company incorporated under the Companies Act, 2013 or under any previous law for the time being in force is required to file their annual Financial Statements and Annual Return within 30 days in e-form AoC-4 or e-form AoC- 4 (CFS) depending upon the applicability and 60 days in e-form MGT-7 respectively from the date of conclusion of the Annual General Meeting.",
+    "slug": "roc-filing"
+  },
+  "tds-return": {
+    "title": "TDS Return",
+    "category": "Compliances",
+    "link": "tds-returns.php/index.html",
+    "desc": "TDS stands for Tax Deducted at Source. As per the government\u2019s TDS Scheme, tax needs to be deducted at the time of making payment to the person. Person who makes the payment \u2013 deducts & deposits TDS with the government. TDS is usually deposited to the government by submitting an \u2018Income Tax Challan\u2019 along with the payment. Besides depositing tax, as a Deductor, you must also file a TDS Return.",
+    "slug": "tds-return"
+  },
+  "xbrl-filing": {
+    "title": "XBRL Filing",
+    "category": "Compliances",
+    "link": "xbrl-filing.php/index.html",
+    "desc": "An abbreviation of Extensible Business Reporting Language, XBRL is a language used for e-communication of business & financial data, which has revolutionized business reporting around the world. From preparation to evaluation to the communication of business data, the language has transformed and eased the entire spectrum of sharing business information. Moreover, it offers cost-efficiency, greater productivity and improved accuracy & reliability to all those who are mandatorily required to submit the financial data or who are involved in using business data. In numerous countries, XBRL has already been used adopted with gaining popularity at high-pace in rest of the countries as well. In India, the Ministry of Corporate Affairs introduced the concept of filing the financial information in Form AOC 4 in XBRL format.",
+    "slug": "xbrl-filing"
+  },
+  "gst-audit": {
+    "title": "GST Audit",
+    "category": "Compliances",
+    "link": "gst-audit.php/index.html",
+    "desc": "GST Audit refers to the examination of the returns, records and other important documents which a taxable individual maintains. Besides, confirming the adherence to the provisions of GST, other motives behind GST audit is to verify the fairness and accuracy of the turnover notified, input tax credit availed and refunds claimed.",
+    "slug": "gst-audit"
+  },
+  "ngo-audit": {
+    "title": "NGO Audit",
+    "category": "Compliances",
+    "link": "ngo-audit.php/index.html",
+    "desc": "A Non-governmental organization (NGO) refers to the organization which is established by a group of people to render their services not with the intentions of profit but with the sole purpose to help the society. The NGO is described as a non-profit making organization in which funds are raised from members, donors or contributors besides from receiving donations for their time or their energy and skills for accomplishing the social objectives such as imparting education, providing economic assistance to needy, providing medical facilities, managing disasters and other emergent situations.",
+    "slug": "ngo-audit"
+  },
+  "tax-audit": {
+    "title": "Tax Audit",
+    "category": "Compliances",
+    "link": "tax-audit.php/index.html",
+    "desc": "Audit refers to an official inspection or unbiased investigation of a firm\u2019s or companies financial statements or reports as well as the production of reports, typically by an autonomous body. There are various types of audits under different laws such as company audit, statutory audit, cost audit, stock audit, etc. Similarly, an audit compensated under Income Tax is termed \u2018Tax Audit\u2019. A tax audit is an inspection or study of accounts of any firm or trade executed by taxpayers. It eases the income estimation for filing the ITRs.",
+    "slug": "tax-audit"
+  },
+  "stock-audit": {
+    "title": "Stock Audit",
+    "category": "Compliances",
+    "link": "stock-audit.php/index.html",
+    "desc": "In simple words, the stock audit means physical verification of inventory; it may also involve the valuation of inventory depending upon the terms of reference. An inventory audit is considered a generally accepted auditing procedure. Stock Audit or Inventory check\u201d is a physical verification of quantities and conditions of items held in the warehouse. The reason behind this check is to know the position of existing stock and is independently checked. In legal reference, a Stock audit is a statutory process which every business entity is required to perform at least once in a Financial Year. The stock audit process mainly involves the counting of physical stock present in the specified premises and verifying the same with computed stock as maintained by the company. The intention and purpose behind executing this is to rectify the discrepancies present in the booked stock when compared to physical stock by passing necessary adjustment entries.",
+    "slug": "stock-audit"
+  },
+  "statutory-audit": {
+    "title": "Statutory Audit",
+    "category": "Compliances",
+    "link": "statutory-audit.php/index.html",
+    "desc": "In India, the laws pertaining to Statutory Audit are prescribed under Companies Act, 2013. In general terms it is an audit of the Financial Statements of the Company i.e. of the Balance Sheet and Profit & Loss Account of the company. It is mandatory to conduct statutory audit and it has to be performed by an Independent Chartered Accountant if a business meets certain criteria and thereafter a report is to be prepared by the Auditor stating the facts, opinion, adverse remark and disclaimer of information (if any) observed by the Auditor in the format as prescribed by the regulator. Independent auditor means the auditor should not have any relation with the auditee (The company in which the audit is required to perform).",
+    "slug": "statutory-audit"
+  },
+  "bank-audit": {
+    "title": "Bank Audit",
+    "category": "Compliances",
+    "link": "bank-audit.php/index.html",
+    "desc": "Banks are the foundation of our economy. They handle a huge amount of deposits and savings of the public, so they have to be closely monitored and reviewed. A bank audit is one important process of this monitoring. \u2018Audit\u2019 or \u2018Auditing\u2019 refers to an activity that is carried out by any business entity on its own or to fulfil the compulsion laid under any law to evaluate the transactions, accounts and documents of the business and to confirm its accuracy and legitimacy. This examination is conducted by internal or external auditors.",
+    "slug": "bank-audit"
+  },
+  "gst-advisory": {
+    "title": "GST Advisory",
+    "category": "Compliances",
+    "link": "gst-advisory.php/index.html",
+    "desc": "The Goods and Service tax was recommended to be introduced in the year 2004 by the Prime Minister of India to replace the existing Central Level VAT and state-level VAT tax system, and finally the action of switching the tax system of the country to GST was done in the year 2017 after generating a detail structural bill as a reformation. Since independence GST has been the largest indirect tax reform in India. The system of GST will include a tax that will be levied on the supply chain of goods and services and currently the GST is levied by the Central which is called the Central GST (CGST) and the State which is called the State GST (SGST). This means that from the manufacturing or import of the goods to the last retail sales the tax will be levied on each stage of the supply chain. With the implementation of GST, all other indirect taxes will be removed except custom duty and only GST will have to be paid.",
+    "slug": "gst-advisory"
+  },
+  "tax-planning": {
+    "title": "Tax Planning",
+    "category": "Compliances",
+    "link": "tax-planning.php/index.html",
+    "desc": "Tax planning refers to the process of evaluation of a financial plan or circumstances w.r.t taxation to ensure the maximum tax efficiency by harmonize all the components of a financial plan to work together with tax-efficiency. Tax planning is an integral part of a financial plan that helps in the reduction of tax liability and increment of contributions towards retirement schemes. Besides, different investments and different retirement schemes must go together with the tax filing and the deductions to generate the best possible results. Tax planning lays emphasis on different considerations like the timing of income, timing of purchases, size and planning connected with different expenditures.",
+    "slug": "tax-planning"
+  },
+  "legal-secretarial": {
+    "title": "Legal Secretarial",
+    "category": "Compliances",
+    "link": "legal-secretarial.php/index.html",
+    "desc": "Legal Secretarial Services have brought completely different versions for the business world. An array of jobs that come under Legal secretarial services include typing, preparing & presenting charts or graphs, managing documentation, following up with clients, booking appointments for attorneys & so on. Legal Secretarial Services do not end at filing & corresponding but also take care of the adherence to the statutory and legal norms which lay the cornerstone of any company. Such services abridge the split between geographical and administrative insufficiencies in a company\u2019s formation as every station & UT has its own set of norms & regulations. Corporate secretarial service acts as a pillar for the company\u2019s adherence towards rules & regulations irrespective of the type or nature of the company because the company secretary is competent to deal with any kind of company & ensure its compliance towards the government rules & latest amendments.",
+    "slug": "legal-secretarial"
+  },
+  "project-financing": {
+    "title": "Project Financing",
+    "category": "Compliances",
+    "link": "project-financing.php/index.html",
+    "desc": "Project financing refers to the long-term financing of infrastructure and industrial projects gleaned from the project\u2019s cash flow instead of balance sheets of sponsors of the project for repayment, with the assets of project, rights and interests as secondary collateral. Project financing helps companies arrange for a loan centered on the cash flow generated on the completion of the project while utilizing the project\u2019s assets, rights, and interests as collateral.",
+    "slug": "project-financing"
+  },
+  "nri-taxation": {
+    "title": "NRI Taxation",
+    "category": "Compliances",
+    "link": "nri-taxation.php/index.html",
+    "desc": "The taxable income of an NRI solely relies on the residential status of the person in the concerned year. If the status is \u2013 Resident then the income, earned at national or international front, of the individual will be taxable in India, whereas, in the contrast case of NRI Status, the income that is earned in India will only be taxable in India. The examples of income earned in India includes the salary earned in India by doing a job or providing services in India, capital gains on transfer of ownership of assets that are situated in India, gain from a house property located in India, income from FDs or interest on savings bank account in India. Such incomes which are earned in India are taxable income for NRIs. However, the income earned in Foreign country or outside India is not taxable in India. Interest earned on an FCNR account and NRE account is exempted from tax. Interest on NRO accounts attracts tax from an NRI.",
+    "slug": "nri-taxation"
+  },
+  "strike-off-section-8-company": {
+    "title": "Strike off Section-8 Company",
+    "category": "Compliances",
+    "link": "strike-off-section-8-companies.php/index.html",
+    "desc": "Section 8 Company means a company established for the promotion of trade, art, science, sports, research, education, religion, environmental protection, charity or any other object, which intends to apply its income and profits to the promotion of its objects and prohibits the payment of dividends to its members. Strike off Section 8 Companies means that a company has been legally dissolved by the Ministry of Corporate Affairs (MCA).",
+    "slug": "strike-off-section-8-company"
+  }
+}
