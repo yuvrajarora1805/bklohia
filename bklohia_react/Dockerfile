@@ -13,5 +13,6 @@ COPY . .
 RUN npm run build
 
 # Start the Next.js app
+ENV PORT=3010
 EXPOSE 3010
-CMD ["npm", "run", "start", "-p", "3010"]
+CMD ["npm", "run", "start"]
